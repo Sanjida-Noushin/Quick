@@ -1,0 +1,190 @@
+*{
+margin: 0;
+padding: 0;
+}
+.header{
+	width: 100%;
+    border-bottom: 1px solid #B0BED3;
+	padding-top: 10px;
+	padding-bottom: 60px;
+}
+.container{
+	width: 1140px;
+	margin: auto;
+}
+.nav{
+	width: 100%;
+
+}
+.logo{
+    width: 60%;
+    float: left;
+
+}
+.menu{
+    width: 40%;
+    float: right;
+
+}
+.menu ul li{
+    display: inline-block;
+    padding-top: 18px;
+}
+.menu ul li a {
+    text-decoration: none;
+    margin-right: 25px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    color: black;
+}
+.text{
+	width: 100%;
+}
+.main{
+	width: 100%;
+	padding-top: 60px;
+}
+.time{
+	font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+	color: #0F2656;
+	text-align: center;
+    letter-spacing: 2px;
+    font-size: 50px;
+    
+
+}
+.apm{
+	font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+	color: #008AFF;
+	text-align: center;
+    letter-spacing: 2px;
+    margin-top: 10px;
+    font-size: 50px;
+}
+.main p{
+	font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #0F2656;
+	text-align: center;
+	padding-top: 20px;
+}
+.mid{
+	width: 100%;
+}
+.imgt{
+	width: 100%;
+	padding-left: 236px;
+    padding-top: 20px;
+}
+.texttw{
+	width: 100%;
+}
+.maint{
+	width: 100%;
+	padding-top: 80px;
+    display: inline-block;
+}
+.three{
+	width: 48%;
+	float: left;
+
+}
+.success{
+	width: 49%;
+	float: right;
+
+}
+.three h1{
+	font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    letter-spacing: 2px;
+    color: #F15767;
+    text-align: right;
+
+}
+.three p{
+	font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #0F2656;
+	text-align: right;
+	padding-top: 10px;
+}
+.success h1{
+    font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+	color: #0F2656;
+    letter-spacing: 2px;
+    font-size: 50px;
+    
+}
+.pics{
+	width: 100%;
+}
+.mpics{
+	width: 100%;
+	display: inline-block;
+	padding-top: 70px;
+}
+.pink{
+	width: 30%;
+	float: left;
+}
+.teal{
+	width: 30%;
+	float: left;
+	margin-left: 45px;
+
+}
+.yellow{
+	width: 30%;
+	float: right;
+	margin-right: 25px;
+}
+.footer{
+	width: 100%;
+	background-color: #008AFF;
+	padding-top: 30px;
+	padding-bottom: 20px;
+	margin-top: 60px;
+}
+.foot{
+	width: 100%;
+}
+.ico{
+	width: 30%;
+	float: left;
+	text-align: right;
+
+}
+.ftext{
+	width: 68%;
+	float: left;
+	margin-left: 5px;
+}
+.foot ul li a i{
+ text-decoration: none;
+ color: #9ECEFF;
+ padding-top: 3px;
+
+}
+.foot{
+	display: inline-block;
+}
+.foot ul li{
+	list-style: none;
+}
+.ftext p{
+	font-family: 'Noto Sans', sans-serif;
+    font-family: 'Open Sans', sans-serif;
+    color: #9ECEFF;
+}
+.ftext span{
+	font-family: 'Noto Sans', sans-serif;
+	color: white;
+	letter-spacing: 3px;
+	font-size: 16px;
+	font-weight: bold;
+}
